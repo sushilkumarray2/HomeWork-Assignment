@@ -1,0 +1,10 @@
+.square
+{
+    border:1px rgb(174, 97, 29) solid;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

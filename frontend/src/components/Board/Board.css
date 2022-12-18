@@ -1,0 +1,51 @@
+.board-row,.containt {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+  }
+  
+  .board-container {
+     margin-top: 10px;
+  }
+  
+  .containt1
+  {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 10px; 
+  }
+
+  .containt1 div
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:305px;
+    height:40px;
+    background-color: orange;
+    color: white;
+    font-size: medium;
+    text-align: center;
+    
+  }
+.btn{
+    
+    width:305px;
+    height:40px;
+    background-color: orange;
+    color: white;
+    font-size: medium;
+}
+
+.logout
+{
+  background-color: rgb(234, 9, 9);
+  width: 100px;
+  height: 40px;
+  margin-left: 205px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 10px;
+  color:white
+}
